@@ -1,0 +1,40 @@
+number of objects: 201326592
+minRad=0.0014544, maxRad=0.058178
+allocating sample of n=100 from data, done in time=10.9 s
+nbins = 20, min,max sep = 0.00145444..0.0581776, bin_size = 0.184444
+Starting process GG cross-correlations
+Using 64 threads.
+Building GField
+Building GField
+Starting 97 jobs.
+.................................................................................................
+varg1 = 0.000000: sig_sn (per component) = 0.000289
+Traceback (most recent call last):
+  File "/global/cscratch1/sd/joar/sharing/wl/nonInteractive/shearz1z2.py", line 57, in <module>
+    GG.process(cat1,cat2)
+  File "/opt/conda/lib/python3.9/site-packages/treecorr/ggcorrelation.py", line 458, in process
+    self.logger.info("varg2 = %f: sig_sn (per component) = %f",varg2,math.sqrt(varg2))
+ValueError: math domain error
+number of objects: 201326592
+minRad=0.0014544, maxRad=0.058178
+allocating sample of n=100 from data, done in time=11.4 s
+nbins = 20, min,max sep = 0.00145444..0.0581776, bin_size = 0.184444
+Starting process GG cross-correlations
+Using 64 threads.
+Building GField
+Building GField
+Starting 97 jobs.
+.................................................................................................
+varg1 = 0.000000: sig_sn (per component) = 0.000289
+Traceback (most recent call last):
+  File "/global/cscratch1/sd/joar/sharing/wl/nonInteractive/shearz1z2.py", line 57, in <module>
+    GG.process(cat1,cat2)
+  File "/opt/conda/lib/python3.9/site-packages/treecorr/ggcorrelation.py", line 458, in process
+    self.logger.info("varg2 = %f: sig_sn (per component) = %f",varg2,math.sqrt(varg2))
+ValueError: math domain error
+srun: error: nid01714: task 2: Exited with exit code 1
+srun: launch/slurm: _step_signal: Terminating StepId=54485200.0
+slurmstepd: error: *** STEP 54485200.0 ON nid01713 CANCELLED AT 2022-02-06T12:19:40 ***
+srun: error: nid01714: task 3: Terminated
+srun: error: nid01713: tasks 0-1: Terminated
+srun: Force Terminated StepId=54485200.0

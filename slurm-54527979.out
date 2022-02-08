@@ -1,0 +1,52 @@
+number of objects: 201326592
+minRad=0.0014544, maxRad=0.058178
+allocating sample of n=100 from data, done in time=11.0 s
+nbins = 20, min,max sep = 0.00145444..0.0581776, bin_size = 0.184444
+Starting process GG cross-correlations
+Using 64 threads.
+Building GField
+Building GField
+Starting 94 jobs.
+..............................................................................................
+varg1 = 0.000000: sig_sn (per component) = 0.000183
+varg2 = 0.000000: sig_sn (per component) = 0.000267
+walltime with perf_counter: {100: 0.031}
+number of objects: 201326592
+minRad=0.0014544, maxRad=0.058178
+allocating sample of n=100 from data, done in time=11.1 s
+nbins = 20, min,max sep = 0.00145444..0.0581776, bin_size = 0.184444
+Starting process GG cross-correlations
+Using 64 threads.
+Building GField
+Building GField
+Starting 94 jobs.
+..............................................................................................
+varg1 = 0.000000: sig_sn (per component) = 0.000183
+varg2 = 0.000000: sig_sn (per component) = 0.000267
+number of objects: 201326592
+minRad=0.0014544, maxRad=0.058178
+allocating sample of n=100 from data, done in time=11.2 s
+nbins = 20, min,max sep = 0.00145444..0.0581776, bin_size = 0.184444
+Starting process GG cross-correlations
+Using 64 threads.
+Building GField
+Building GField
+Starting 94 jobs.
+walltime with perf_counter: {100: 0.0387}
+..............................................................................................
+varg1 = 0.000000: sig_sn (per component) = 0.000183
+varg2 = 0.000000: sig_sn (per component) = 0.000267
+walltime with perf_counter: {100: 0.0278}
+number of objects: 201326592
+minRad=0.0014544, maxRad=0.058178
+allocating sample of n=100 from data, done in time=11.2 s
+nbins = 20, min,max sep = 0.00145444..0.0581776, bin_size = 0.184444
+Starting process GG cross-correlations
+Using 64 threads.
+Building GField
+Building GField
+Starting 94 jobs.
+..............................................................................................
+varg1 = 0.000000: sig_sn (per component) = 0.000183
+varg2 = 0.000000: sig_sn (per component) = 0.000267
+walltime with perf_counter: {100: 0.0268}
