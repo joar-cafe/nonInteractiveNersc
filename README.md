@@ -5,7 +5,7 @@ If one tries to run treecorr (tc) under desc-x kernel in cori, a messy error pop
 
        shifterimg pull joezuntz/txpipe
    
-this needs to be run only once, that's why it's not in the bash file. Once pulled joe's image we can use it with srun as
+this needs to be run only once, that's why it's not in the bash file. Once pulled joe's image we can use it with srun and shifter as
 
      srun -n 4 -c 8 shifter --env OMP_NUM_THREAD=8 --image=joezuntz/txpipe python my_program.py
 
