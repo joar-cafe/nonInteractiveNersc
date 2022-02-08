@@ -1,7 +1,7 @@
 # nonInteractiveNersc
 running in NERSC non interactively.
 
-If one tries to run treecorr (tc) under desc-x kernel in cori, an messy error pops up. So, Joe Z, kindly suggest us to use a docker image of txPipe he built. To use this image it is mandatory to pull it with shifter
+If one tries to run treecorr (tc) under desc-x kernel in cori, a messy error pops up. So, Joe Z, kindly suggest us to use a docker image of txPipe he built. To use this image it is mandatory to pull it with shifter
 
        shifterimg pull joezuntz/txpipe
    
